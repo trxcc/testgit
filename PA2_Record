@@ -1,0 +1,2 @@
+Typing-game游戏过程描述: 
+  在整个游戏开始时, Typing-game通过AM来和NEMU中实现的模拟硬件进行链接, 对ioe进行初始化. 游戏主体在while循环中实现
